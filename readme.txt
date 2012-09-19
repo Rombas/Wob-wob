@@ -1,2 +1,4 @@
-Privet v.1.2
+Privet
 19.09.12
+SPb
+FUIT
