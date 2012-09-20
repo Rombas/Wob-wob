@@ -1,4 +1,1 @@
-Privet
-19.09.12
-SPb
-FUIT
+Privet!
